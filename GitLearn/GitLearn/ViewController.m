@@ -8,8 +8,9 @@
 
 #import "ViewController.h"
 
-@interface ViewController ()
-
+@interface ViewController (){
+    NSInteger ab;
+}
 @end
 
 @implementation ViewController
