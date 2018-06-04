@@ -9,5 +9,9 @@
 #import "YGitObj.h"
 
 @implementation YGitObj
+{
+    
+}
+
 
 @end
